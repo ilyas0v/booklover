@@ -65,10 +65,10 @@
     </div>
     <div class="collapse navbar-collapse"  id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a style="color:white;font-weight:bold;" href="#">Discover</a></li>
+        <li><a style="color:white;font-weight:bold;" href="index.php">Discover</a></li>
         <li><a data-toggle="modal" data-target=".bd-example-modal-sm" style="font-weight:bold" href="#">Log in</a></li>
         <!--<li style="color:#ddd;padding:15px 10px 15px 0px">or</li> -->
-        <li><a href="#" class="rounded-button">Sign up</a></li>
+        <li><a href="signup.php" class="rounded-button">Sign up</a></li>
       </ul>
 
       <ul class="nav navbar-nav search-on-right">
